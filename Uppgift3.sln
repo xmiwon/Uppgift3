@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibraries", "SharedLi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctions", "AzureFunctions\AzureFunctions.csproj", "{DA0B8300-3568-4F1F-8361-64612719C4E6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "Uppgift3\ConsoleApp.csproj", "{49A8292D-2824-488B-8628-9A04F73E4BBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{13FF2AA7-9B28-4D02-889E-7459088CD6F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{DA0B8300-3568-4F1F-8361-64612719C4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA0B8300-3568-4F1F-8361-64612719C4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA0B8300-3568-4F1F-8361-64612719C4E6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{49A8292D-2824-488B-8628-9A04F73E4BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49A8292D-2824-488B-8628-9A04F73E4BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49A8292D-2824-488B-8628-9A04F73E4BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49A8292D-2824-488B-8628-9A04F73E4BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FF2AA7-9B28-4D02-889E-7459088CD6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FF2AA7-9B28-4D02-889E-7459088CD6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FF2AA7-9B28-4D02-889E-7459088CD6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FF2AA7-9B28-4D02-889E-7459088CD6F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
